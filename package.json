@@ -1,0 +1,15 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "a static site generator",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarkunik/ssg.git"
+  },
+  "author": "okr",
+  "license": "ISC"
+}
